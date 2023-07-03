@@ -1,0 +1,47 @@
+.para1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+#subheading3{
+    text-align: center;
+}
+ #section2,#section3 {
+     padding-top: 2em;
+     text-align: center;
+ }
+.main{
+    padding-left: 15px;
+}
+ #columns {
+    display:flex;
+    text-align: center;
+    text-decoration: none;
+    }
+ 
+#first-column, #second-column{
+    flex-grow: 2;
+    }
+
+/* unvisited link */
+.link:link {
+    color: red;
+    text-decoration: none;
+  }
+  
+  /* visited link */
+  .link:visited {
+    color: green;
+    text-decoration: none;
+  }
+  
+  /* mouse over link */
+  .link:hover {
+    color: hotpink;
+    text-decoration: none;
+  }
+  
+  /* selected link */
+  .link:active {
+    color: blue;
+    text-decoration: none;
+  }

@@ -1,0 +1,44 @@
+.header {
+    background-color: #F1F1F1;
+    text-align: left;
+    padding-left: 14px;
+    padding: 20px;
+  }
+
+/* The navbar container */
+.topnav {
+  overflow: hidden;
+  background-color: #0ba805;
+}
+
+/* Navbar links */
+.topnav a {
+  display: inline;
+  color: #f2f2f2;
+  text-align: left;
+  font-size: large;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Links - change color on hover */
+.topnav a:hover {
+  background-color: #0a0a0a;
+  color: rgb(226, 4, 4);
+}
+
+/*.logo {
+  float: left;
+  height: 0px;
+  padding: 0px;
+  margin-left: 0px;
+}
+*/
+
+body{
+  margin-left: 0px;
+}
+
+#top{
+  background-color: #3bee05;
+}
